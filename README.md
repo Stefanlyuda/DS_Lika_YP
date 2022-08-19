@@ -5,6 +5,6 @@ This repository contains my projects which I created in during education in Yand
 
 Задача | Результат | Теги
 ------ | ----------|----------
-a      | 4         | $
-       | 365       | (
+a      |          | $
+       |           | (
 b      |           | ^  
