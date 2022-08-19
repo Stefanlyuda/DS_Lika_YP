@@ -4,7 +4,7 @@ This repository contains my projects which I created in during education in Yand
 В репозитории представлены  все мои проекты, которые были реализованы в рамках обучения профессии Data Scientist на Yandex.Practium
 
 Задача | Результат | Теги
------- | ----------|----------
+:------ | :----------|:----------
 a      |          | $
        |           | (
 b      |           | ^  
