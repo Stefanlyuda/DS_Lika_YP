@@ -6,7 +6,7 @@ This repository contains my projects which I created in during education in Yand
 Задача | Результат | Теги
 :------ | :----------|:----------
 [Какой жанр музыки популярен в Москве, а какой в Санкт-Петербурге?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%961_music_genre_Msk_Peter) |1) в Москве преимущественно слушают музыку жанра world 2) в Санкт - Петербурге больше любителей джаза и классичекой музыки| groupby #sort_values #isin #функции_по_условию
-:------ | :----------|:----------
+[Вернет ли заемщик кредит в банк?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%962_clients_of_bank_credits) | :----------|:----------
 
 
 
