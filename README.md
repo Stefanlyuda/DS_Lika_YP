@@ -5,7 +5,7 @@ This repository contains my projects which I created in during education in Yand
 
 |**Тема**          |**Проект**                      |**Описание задачи**                       |**Навыки и инструменты**|
 |:-----------------|:-------------------------------|:-----------------------------------------|:-----------|
-|Базовый Python    |[Какой жанр музыки популярен в Москве, а какой в Санкт-Петербурге?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%961_music_genre_Msk_Peter)| Сгруппируйте данные по условию для анализа гипотез|бла2|
+|Базовый Python    |[Какой жанр музыки популярен в Москве, а какой в Санкт-Петербурге?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%961_music_genre_Msk_Peter)          | Сгруппируйте данные по условию для анализа гипотез    |бла2|
 |     |     |      
 |Предобработка данных|[Вернет ли заемщик кредит в банк?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%962_clients_of_bank_credits)|бла| `PyMystem3`,`Data Preprocessing`,`Lemmatization`|
 |Исследователький анализ данных|[Какие параметры влияют на стоимость недвижимоти в Спб?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%963_price_of_estate)| ,kf |`Matplotlib`,`Seaborn`,`EDA`|
