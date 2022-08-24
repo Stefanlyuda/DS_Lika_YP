@@ -9,4 +9,4 @@ This repository contains my projects which I created in during education in Yand
 |     |     |      
 |Предобработка данных|[Вернет ли заемщик кредит в банк?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%962_clients_of_bank_credits)|бла| `PyMystem3`,`Data Preprocessing`,`Lemmatization`|
 |Исследователький анализ данных|[Какие параметры влияют на стоимость недвижимоти в Спб?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%963_price_of_estate)| ,kf |`Matplotlib`,`Seaborn`,`EDA`|
-|Статитический анализ данных|[Какой тариф приносит больше денег телеком-компании?](
+|Статитический анализ данных|[Какой тариф приносит больше денег телеком-компании?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%964_Statistic)||`Matplotlib`,`Seaborn`,`SciPy`,`SDA`,`Hypothesis testing`|
