@@ -9,4 +9,4 @@
 
 Также построены  модели "Случайный лес" (Accuracy случайного леса: 0.7869, RandomForestClassifier(n_estimators=10)) и "Логическая регрессия" (Accuracy логической регрессии: 0.6982, ç(max_iter=1000))
 
-## RandomForestClassifier #RandomForestClassifier # DecisionTreeClassifier #pairplot # train_test_split
+`RandomForestClassifier` `RandomForestClassifier` `DecisionTreeClassifier` `pairplot` `train_test_split`
