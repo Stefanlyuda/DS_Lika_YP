@@ -19,4 +19,5 @@ This repository contains my projects which I created in during education in Yand
 |Временные ряды_taxi     |     | 
 |Машинное обучение для текстов_ecom     |     | 
 |Компьютерное зрение_ecom     |     | 
+|Нейронные сети     |     | 
 |Выпускной проект_telecom    |     | 
