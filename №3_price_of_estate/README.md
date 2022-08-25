@@ -23,4 +23,4 @@
 - Площадь квартир в центре в основном от 22 до 198 квадратов, в других районах от 20 до 198
 - Больше всего обьявлений феврале 1675 и меньше всего в мае 892. Активнее всего продаются квартры в первые месяцы после Нового года (февраль-март) и перед Новым годом (декабрь)
 
-## seaborn #pivot_table #groupby #catplot #countplot #boxplot #scatterplot
+`seaborn` `pivot_table` `groupby``catplot` `countplot` `boxplot` `scatterplot`
