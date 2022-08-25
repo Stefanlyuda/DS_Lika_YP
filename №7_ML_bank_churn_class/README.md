@@ -19,4 +19,4 @@
 
 **auc_roc : 0.8418**
 
-`F1` `auc_roc`
+`F1` `auc_roc` `get_dummies` `rename`
