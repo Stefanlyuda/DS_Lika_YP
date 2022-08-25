@@ -35,4 +35,4 @@
 Компании следует усилить развитие направления игр жанра Shooter и Sports катеогории для взрослых или без категории.
 На платформах PS3,PS4,XOne в регионах Северная Америка и Европа и 3DS в Японии.
 
-##str.lower #replace('tbd',np.nan) #pd.to_numeric(data['user_score'], errors = 'coerce')
+`str.lower` `replace('tbd',np.nan)` `pd.to_numeric(data[''], errors = 'coerce')`
