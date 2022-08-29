@@ -13,7 +13,7 @@ This repository contains my projects which I created in during education in Yand
 |5_Сборный проект №1_`game`|[Какие факторы на успешность компьютерной игры и какое направление выгоднее рекламировать?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%965_Games)| 
 |6_Ведение в МО_`telecom`     |[Модель  задачи классификации с наиболее выгодным тарифом для пользователя](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%966_ML_tariff_rec)     | 
 |7_Обучение с учителем_`bank`     |[Модель классификации для прогноза оттока клиентов банка](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%967_ML_bank_churn_class)       | 
-|8_Машинное обучение в бизнесе_`neft`     |     | 
+|8_Машинное обучение в бизнесе_`neft`     |[Выбор скважины. Расчет рисков. Регрессия](https://github.com/BerlinLika11/DS_Lika_YP/blob/main/%E2%84%968_ML_in_business_neft_regres/README.md)    | 
 |9_Сборный проект №2_`zoloto`     |     | 
 |10_Численные методы_`auto`     |     | 
 |11_Временные ряды_`taxi`     |     | 
