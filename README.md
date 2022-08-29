@@ -5,19 +5,19 @@ This repository contains my projects which I created in during education in Yand
 
 |**Тема_индустрия**          |**Проект**                      |**Описание задачи**                       |**Инструменты**|
 |:-----------------|:-------------------------------|:-----------------------------------------|:-----------|
-|Базовый Python_`DA`    |[Какой жанр музыки популярен в Москве, а какой в Санкт-Петербурге?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%961_music_genre_Msk_Peter)          |Сгруппируйте данные по условию для анализа гипотез     ||
+|1_Базовый Python_`DA`    |[Какой жанр музыки популярен в Москве, а какой в Санкт-Петербурге?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%961_music_genre_Msk_Peter)          |Сгруппируйте данные по условию для анализа гипотез     ||
 |     |     |     
-|Предобработка данных_`bank`|[Вернет ли заемщик кредит в банк?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%962_clients_of_bank_credits)||`PyMystem3`,`Data Preprocessing`,`Lemmatization` |
-|Исследователький анализ данных_`estate`|[Какие параметры влияют на стоимость недвижимоти в Спб?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%963_price_of_estate)|  |`Matplotlib`,`Seaborn`,`EDA`|
-|Статитический анализ данных_`telekom`|[Какой тариф приносит больше денег телеком-компании?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%964_Statistic)||`Matplotlib`,`Seaborn`,`SciPy`,`SDA`,`Hypothesis testing`|
-|Сборный проект №1_`game`|     | 
-|Ведение в МО_`telecom`     |     | 
-|Обучение с учителем_`bank`     |     | 
-|Машинное обучение в бизнесе_`neft`     |     | 
-|Сборный проект №2_`zoloto`     |     | 
-|Численные методы_`auto`     |     | 
-|Временные ряды_`taxi`     |     | 
-|Машинное обучение для текстов_`ecom`     |     | 
-|Компьютерное зрение_`ecom`     |     | 
-|Нейронные сети     |     | 
-|Выпускной проект_`telecom`    |     | 
+|2_Предобработка данных_`bank`|[Вернет ли заемщик кредит в банк?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%962_clients_of_bank_credits)||`PyMystem3`,`Data Preprocessing`,`Lemmatization` |
+|3_Исследователький анализ данных_`estate`|[Какие параметры влияют на стоимость недвижимоти в Спб?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%963_price_of_estate)|  |`Matplotlib`,`Seaborn`,`EDA`|
+|4_Статитический анализ данных_`telekom`|[Какой тариф приносит больше денег телеком-компании?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%964_Statistic)||`Matplotlib`,`Seaborn`,`SciPy`,`SDA`,`Hypothesis testing`|
+|5_Сборный проект №1_`game`|     | 
+|6_Ведение в МО_`telecom`     |     | 
+|7_Обучение с учителем_`bank`     |     | 
+|8_Машинное обучение в бизнесе_`neft`     |     | 
+|9_Сборный проект №2_`zoloto`     |     | 
+|10_Численные методы_`auto`     |     | 
+|11_Временные ряды_`taxi`     |     | 
+|12_Машинное обучение для текстов_`ecom`     |     | 
+|13_Компьютерное зрение_`ecom`     |     | 
+|14_Нейронные сети     |     | 
+|15_Выпускной проект_`telecom`    |     | 
