@@ -12,7 +12,7 @@ This repository contains my projects which I created in during education in Yand
 |4_Статитический анализ данных_`telekom`|[Какой тариф приносит больше денег телеком-компании?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%964_Statistic)||`Matplotlib`,`Seaborn`,`SciPy`,`SDA`,`Hypothesis testing`|
 |5_Сборный проект №1_`game`|[Какие факторы на успешность компьютерной игры и какое направление выгоднее рекламировать?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%965_Games)| 
 |6_Ведение в МО_`telecom`     |     | 
-|7_Обучение с учителем_`bank`     |     | 
+|7_Обучение с учителем_`bank`     |[Модель классификации для прогноза оттока клиентов банка](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%967_ML_bank_churn_class)       | 
 |8_Машинное обучение в бизнесе_`neft`     |     | 
 |9_Сборный проект №2_`zoloto`     |     | 
 |10_Численные методы_`auto`     |     | 
