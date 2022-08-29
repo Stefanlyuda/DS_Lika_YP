@@ -19,4 +19,4 @@
 
 **auc_roc : 0.8418**
 
-`F1` `auc_roc` `get_dummies` `rename` `train_test_split` `StandardScaler` `RandomForestClassifier` `roc-кривая` 
+`F1` `auc_roc` `get_dummies` `rename` `train_test_split` `StandardScaler` `RandomForestClassifier` `roc-кривая` `Upsampling`
