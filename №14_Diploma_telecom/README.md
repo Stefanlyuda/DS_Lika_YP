@@ -21,4 +21,4 @@
 
 Поставленная задача по потроению модели машинного обучения для прогнозирования ухода клиентов выполнена. Данную модель можно использовать для прогнозирования оттока клиентов и выбирать наиболее правильные промоакции для удержания клиентов. Компания может выгружать данные каждый месяц, находить время жизни клиента и тем самым обеспечаить работы моделей градиентного бустинга.
 
-shuffle train_test_split GridSearchCV DecisionTreeClassifier accuracy_score StandardScaler DecisionTreeClassifier RandomForestClassifier LogisticRegression datetime  CatBoostClassifier try exept OHE LabelEncoder OOP feature_importances
+`shuffle` `train_test_split` `GridSearchCV` `DecisionTreeClassifier` `accuracy_score` `StandardScaler` `DecisionTreeClassifier` `RandomForestClassifier` `LogisticRegression` `datetime`  `CatBoostClassifier` `try exept` `OHE` `LabelEncoder` `OOP` `feature_importances`
