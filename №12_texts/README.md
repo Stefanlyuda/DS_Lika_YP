@@ -25,4 +25,12 @@
 
 ошибки первого и второго рода в матрице равны 2006 и 1242 соответвенно. Это около одного процента от предсказаний.
 
+Наилучшие результаты показала модель логистической регрессии со следующими параметрами:  
+- 'penalty': ['l2'],
+- 'C':[0.15],
+- 'intercept_scaling':range(5),
+- 'solver':['liblinear']
+
+F1_score  на этой модели равен 0.7686
+
 `pymystem3` `NLTK` `GridSearchCV` `f1_score`  `LogisticRegression` `DecisionTreeClassifier`  `TfidfVectorizer` `matplotlib` `value_counts` `Mystem` `Лемматизация spaCy` `pyspellchecker`
