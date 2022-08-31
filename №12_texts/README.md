@@ -7,6 +7,13 @@
 
 ### Решение
 
+1. Анализ данных
+2. Выявление дисбаланса классов 
+3. Удаление лишних пробелов и работа с регулярными выражениями (удаление ненужных для анализа символов)
+4. 
+5. 
+6. 
+
 ### Вывод
 
-pymystem3 NLTK
+pymystem3 NLTK GridSearchCV f1_score  LogisticRegression DecisionTreeClassifier  TfidfVectorizer matplotlib value_counts Mystem Лемматизация spaCy 
