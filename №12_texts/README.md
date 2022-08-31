@@ -16,4 +16,4 @@
 
 ### Вывод
 
-pymystem3 NLTK GridSearchCV f1_score  LogisticRegression DecisionTreeClassifier  TfidfVectorizer matplotlib value_counts Mystem Лемматизация spaCy 
+`pymystem3` `NLTK` `GridSearchCV` `f1_score`  `LogisticRegression` `DecisionTreeClassifier`  `TfidfVectorizer` `matplotlib` `value_counts` `Mystem` `Лемматизация spaCy`
