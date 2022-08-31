@@ -17,5 +17,5 @@ This repository contains my projects which I created in during education in Yand
 |10_Численные методы_`auto`     |[Какие факторы влияют на стоимость авто?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%9610_price_of_autos)   |`Regression`,`Pandas`,`EDA`,`SKlearn`, `LGBM Regressor`,`CatBoostRegressor`,`Feature importances`,`matplotlib`,`Seaborn`,`NumPy`
 |11_Временные ряды_`taxi`     |[Сколько заказов такси будет в следующий час?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%9611_vremenny_ryady_taxi)     | `Pandas`,`Matplotlib`,`TimeSeriesSplit`,`trends`,`seasons`
 |12_Машинное обучение для текстов_`ecom`     |[Сколько токсичных комментариев отставили пользователи интенет-магазина?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%9612_texts)    | `NLP`,`Pandas`,`SKlearn`,`NLTK`, `pymystem3`, `spaCy`
-|13_Компьютерное зрение_Нейронные сети_`ecom`     |     | 
+|13_Компьютерное зрение_Нейронные сети_`ecom`     |[Анализ возраста клиента по фотографии](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%9613_CV_neural%20networks)     | 
 |14_Выпускной проект_`telecom`    |     | 
