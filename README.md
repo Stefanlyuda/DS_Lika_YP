@@ -18,4 +18,4 @@ This repository contains my projects which I created in during education in Yand
 |11_Временные ряды_`taxi`     |[Сколько заказов такси будет в следующий час?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%9611_vremenny_ryady_taxi)     | `Pandas`,`Matplotlib`,`TimeSeriesSplit`,`trends`,`seasons`
 |12_Машинное обучение для текстов_`ecom`     |[Сколько токсичных комментариев отставили пользователи интенет-магазина?](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%9612_texts)    | `NLP`,`Pandas`,`SKlearn`,`NLTK`, `pymystem3`, `spaCy`
 |13_Компьютерное зрение_Нейронные сети_`retail`     |[Анализ возраста клиента по фотографии](https://github.com/BerlinLika11/DS_Lika_YP/tree/main/%E2%84%9613_CV_neural%20networks)     | `CV`,`Pandas`,`Keras`,`LeNet50`,`ResNet`
-|14_Выпускной проект_`telecom`    |     | `EDA`,`Pandas`,`Marketing Analyst`,`SKlearn`,`NumPy`,`SciPy`,`Data Preprocessing`,`SDA`,`Feature Engineering`,`Machine Learning`,`OOP`
+|14_Выпускной проект_`telecom`    |     | `EDA`,`Pandas`,`Marketing Analyst`,`SKlearn`,`NumPy`,`Data Preprocessing`,`SDA`,`Feature Engineering`,`Machine Learning`,`OOP`
