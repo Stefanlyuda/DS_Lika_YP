@@ -1,4 +1,4 @@
-#  Data science projects. Yandex.Practicum
+#  Data science projects_Yandex.Practicum
 
 
 This repository contains my projects which I created in during education in Yandex.Practicum Program of Data Science
