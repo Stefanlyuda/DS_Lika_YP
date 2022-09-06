@@ -1,7 +1,12 @@
 # DS_Lika_YP
+
+
 This repository contains my projects which I created in during education in Yandex.Practicum Program of Data Science
 Data Science Professional Certificate 
 В репозитории представлены проекты, которые были реализованы в рамках обучения профессии Data Scientist на Yandex.Practium
+
+
+!pip install seaborn -U
 
 |**Тема_индустрия**          |**Проект**                      |**Инструменты**|**Ключевые слова проекта**|
 |:-----------------|:-------------------------------|:-----------|:-----------|
