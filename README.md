@@ -9,6 +9,8 @@ This repository contains my projects which I created in during education in Yand
 
 
 !pip install seaborn -U
+!pip install catboost
+!pip install lightgbm
 
 |**Тема_индустрия**          |**Проект**                      |**Инструменты**|**Ключевые слова проекта**|
 |:-----------------|:-------------------------------|:-----------|:-----------|
