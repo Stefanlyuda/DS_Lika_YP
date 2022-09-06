@@ -4,13 +4,14 @@
 This repository contains my projects which I created in during education in Yandex.Practicum Program of Data Science
 
 В репозитории представлены проекты, которые были реализованы в рамках обучения профессии Data Scientist на Yandex.Practium
-### Data Science Professional Certificate 
+### [Certificate:](Data Science Professional)  
 
-
-
+### Установка библиотек
+```python
 !pip install seaborn -U
 !pip install catboost
 !pip install lightgbm
+```
 
 |**Тема_индустрия**          |**Проект**                      |**Инструменты**|**Ключевые слова проекта**|
 |:-----------------|:-------------------------------|:-----------|:-----------|
