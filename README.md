@@ -6,7 +6,7 @@ This repository contains my projects which I created in during education in Yand
 В репозитории представлены проекты, которые были реализованы в рамках обучения профессии Data Scientist на Yandex.Practium
 ### [Certificate:](Data Science Professional)  
 
-### Установка библиотек
+### Установка дополнительных библиотек
 ```python
 !pip install seaborn -U
 !pip install catboost
