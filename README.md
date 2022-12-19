@@ -1,8 +1,5 @@
 #  Data science projects_Yandex.Practicum
 
-
-This repository contains my projects which I created in during education in Yandex.Practicum Program of Data Science
-
 В репозитории представлены проекты, которые были реализованы в рамках обучения профессии Data Scientist на Yandex.Practium
 ### [Certificate of Yandex.Practicum Program of Data Science](https://drive.google.com/drive/folders/12Hv5p9Bg6sBzFZzm4k751jy7GbHJuX75?usp=sharing)  
 
